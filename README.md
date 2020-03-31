@@ -9,37 +9,7 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701
 ( https://search.open.canada.ca/en/od/?search_text=covid )
 
 
-Related to Ukraine:
-
-https://rstudio-pubs-static.s3.amazonaws.com/592327_4363a37b09fc4beeb877a1351c600ef9.html
-
-The input data for this dashboard is the dataset available from the {coronavirus} R package. Make sure to download the development version of the package to have the latest data:
-
-install.packages("devtools")
-devtools::install_github("RamiKrispin/coronavirus")
-Important
-
-The data is as of Sunday March 29, 2020 and the dashboard has been updated on Monday March 30, 2020.
-
-If you need the latest numbers about cases in Ukraine, please check this source.
-
-The raw data is pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus repository.
-
-More information about such dashboards can be found in this article.
-
-The code is available on GitHub.
-
-
-https://ramikrispin.github.io/coronavirus_dashboard/
-
-https://towardsdatascience.com/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r-732f87a9965f
-( https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/ )
-
-https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f
-
 https://towardsdatascience.com/5-datasets-about-covid-19-you-can-use-right-now-46307b1406a
-
-
 
 Open data:
 
