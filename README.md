@@ -9,13 +9,13 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701
 ( https://search.open.canada.ca/en/od/?search_text=covid )
 
 
-# https://art-bd.shinyapps.io/covid19canada/
-# https://github.com/ishaberry/Covid19Canada
+https://art-bd.shinyapps.io/covid19canada/
+https://github.com/ishaberry/Covid19Canada
 
-# https://georgeflerovsky-canada.github.io/Canada-COVID-19-dashboard/
-# https://github.com/GeorgeFlerovsky-Canada/Canada-COVID-19-dashboard
+https://georgeflerovsky-canada.github.io/Canada-COVID-19-dashboard/
+https://github.com/GeorgeFlerovsky-Canada/Canada-COVID-19-dashboard
 
-# https://www150.statcan.gc.ca/n1/pub/82-402-x/2011001/reg-eng.htm
+https://www150.statcan.gc.ca/n1/pub/82-402-x/2011001/reg-eng.htm
 
 Open data:
 
