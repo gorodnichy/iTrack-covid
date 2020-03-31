@@ -9,9 +9,17 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701
 ( https://search.open.canada.ca/en/od/?search_text=covid )
 
 
-https://towardsdatascience.com/5-datasets-about-covid-19-you-can-use-right-now-46307b1406a
+# https://art-bd.shinyapps.io/covid19canada/
+# https://github.com/ishaberry/Covid19Canada
+
+# https://georgeflerovsky-canada.github.io/Canada-COVID-19-dashboard/
+# https://github.com/GeorgeFlerovsky-Canada/Canada-COVID-19-dashboard
+
+# https://www150.statcan.gc.ca/n1/pub/82-402-x/2011001/reg-eng.htm
 
 Open data:
+
+https://towardsdatascience.com/5-datasets-about-covid-19-you-can-use-right-now-46307b1406a
 
 https://www.opengovpartnership.org/collecting-open-government-approaches-to-covid-19/
 
@@ -20,13 +28,6 @@ https://github.com/CSSEGISandData/COVID-19
 https://github.com/ibesora/covid-19-data
 
 https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
-
-Script for downloading the Excel file into “R” software
-Please note that this script updates every day automatically using the time of your computer. Hence, it might show an error message if you try to download the file before we have updated it.
-
-Make sure that you have the “readxl” and “httr” packages installed.
-
-#these libraries are necessary
 
 library(readxl)
 
