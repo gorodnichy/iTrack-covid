@@ -6,6 +6,7 @@
 Related to Canada:
 
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701
+( https://search.open.canada.ca/en/od/?search_text=covid )
 
 
 Related to Ukraine:
