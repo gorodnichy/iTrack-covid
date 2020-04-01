@@ -2,12 +2,16 @@
 
 ## Related to Canada:
 
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701
-( https://search.open.canada.ca/en/od/?search_text=covid )
+### Data:
 
- Coronavirus outbreak in Canada: https://health-infobase.canada.ca/src/data/covidLive/covid19.csv,
+- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701
+(<--  https://search.open.canada.ca/en/od/?search_text=covid )
 
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html  (Canada, Public Health)
+  - str1 <- "https://www150.statcan.gc.ca/t1/tbl1/#?pid=13100767&file=1310076701-eng.csv"
+  - str2 <- "https://www150.statcan.gc.ca/n1/tbl/csv/13100767-eng.zip"
+
+- Coronavirus outbreak in Canada: https://health-infobase.canada.ca/src/data/covidLive/covid19.csv,
+(from https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html  (Canada, Public Health)
 
 
 
