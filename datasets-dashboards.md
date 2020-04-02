@@ -4,22 +4,29 @@
 
 ### Data:
 
+Official: 
 - https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701
 (<--  https://search.open.canada.ca/en/od/?search_text=covid )
 
-  - str1 <- "https://www150.statcan.gc.ca/t1/tbl1/#?pid=13100767&file=1310076701-eng.csv"
-  - str2 <- "https://www150.statcan.gc.ca/n1/tbl/csv/13100767-eng.zip"
+  - str1 <- "https://www150.statcan.gc.ca/t1/tbl1/#?pid=13100767&file=1310076701-eng.csv" - does not open in R directly?
+  - str2 <- "https://www150.statcan.gc.ca/n1/tbl/csv/13100767-eng.zip" - problem openinig in R directly (need to besaved locally first)
 
-- Coronavirus outbreak in Canada: https://health-infobase.canada.ca/src/data/covidLive/covid19.csv,
+- https://health-infobase.canada.ca/src/data/covidLive/covid19.csv, - opens in R directly
 (from https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html  (Canada, Public Health)
+
+
+Crowdsourced by UofT - by city and details / links: see below - - opens in R directly
 
 
 
 ### Dashboards:
 
 - https://art-bd.shinyapps.io/covid19canada/ - https://github.com/ishaberry/Covid19Canada
-
-https://georgeflerovsky-canada.github.io/Canada-COVID-19-dashboard/ - https://github.com/GeorgeFlerovsky-Canada/Canada-COVID-19-dashboard
+  - https://docs.google.com/spreadsheets/d/1D6okqtBS3S2NRC7GFVHzaZ67DuTw7LX49-fqSLwJyeo/export?format=xlsx 
+  - To open it in R: see https://github.com/ivi-m/R-Ottawa/blob/master/r101/r01-opendata.R
+  
+- https://covid19canada.herokuapp.com/
+- https://georgeflerovsky-canada.github.io/Canada-COVID-19-dashboard/ - https://github.com/GeorgeFlerovsky-Canada/Canada-COVID-19-dashboard
 
 Geographic data: https://www150.statcan.gc.ca/n1/pub/82-402-x/2011001/reg-eng.htm
 
