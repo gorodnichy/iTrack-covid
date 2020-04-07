@@ -5,7 +5,7 @@
 ### Data:
 
 Official: 
-- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701
+- Archived Content (last updated 29/03/2020) https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701
 (<--  https://search.open.canada.ca/en/od/?search_text=covid )
 
   - str1 <- "https://www150.statcan.gc.ca/t1/tbl1/#?pid=13100767&file=1310076701-eng.csv" - does not open in R directly?
@@ -17,14 +17,14 @@ Official:
 
 Crowdsourced by UofT - by city and details / links: see below - - opens in R directly
 
+- https://docs.google.com/spreadsheets/d/1D6okqtBS3S2NRC7GFVHzaZ67DuTw7LX49-fqSLwJyeo/export?format=xlsx 
+  - To open it in R: see https://github.com/ivi-m/R-Ottawa/blob/master/r101/r01-opendata.R
+  - Used in dashboard below
 
 
 ### Dashboards:
 
-- https://art-bd.shinyapps.io/covid19canada/ - https://github.com/ishaberry/Covid19Canada
-  - https://docs.google.com/spreadsheets/d/1D6okqtBS3S2NRC7GFVHzaZ67DuTw7LX49-fqSLwJyeo/export?format=xlsx 
-  - To open it in R: see https://github.com/ivi-m/R-Ottawa/blob/master/r101/r01-opendata.R
-  
+- https://art-bd.shinyapps.io/covid19canada/ - https://github.com/ishaberry/Covid19Canada 
 - https://covid19canada.herokuapp.com/
 - https://georgeflerovsky-canada.github.io/Canada-COVID-19-dashboard/ - https://github.com/GeorgeFlerovsky-Canada/Canada-COVID-19-dashboard
 
