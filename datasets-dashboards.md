@@ -43,7 +43,16 @@ https://github.com/ishaberry/Covid19Canada ->
 - https://covid19canada.herokuapp.com/
 - https://georgeflerovsky-canada.github.io/Canada-COVID-19-dashboard/ - https://github.com/GeorgeFlerovsky-Canada/Canada-COVID-19-dashboard
 
+
+Data source: Public Health Agency of Canada, Surveillance and Risk Assessment, Epidemiology update; Natural Resources Canada - Grey basemap
+
+Credit: COVID-19 Situational Awareness tiger team Powered by ESRI-Canada and COVID-19 Canadian Geostatistical Platform, a collaboration between Public Health Agency of Canada, Statistics Canada and Natural Resources Canada.
+
+- https://experience.arcgis.com/experience/2f1a13ca0b29422f9b34660f0b705043/
+
 Geographic data: https://www150.statcan.gc.ca/n1/pub/82-402-x/2011001/reg-eng.htm
+Population and geo-location of canadian cities: https://simplemaps.com/data/ca-cities
+https://simplemaps.com/static/data/country-cities/ca/ca.csv
 
 ## International
 
