@@ -1,4 +1,5 @@
-# datasets and dashboards for https://itrack.shinyapp.io/covid
+# datasets and dashboards available for analyzing the propagatio of COVID 19 in Canada and Worldwide
+
 
 ## Related to Canada:
 
