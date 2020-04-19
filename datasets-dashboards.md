@@ -1,4 +1,4 @@
-# datasets and dashboards available for analyzing the propagatio of COVID 19 in Canada and Worldwide
+# Datasets and dashboards available for analyzing the propagation of COVID 19 in Canada and Worldwide
 
 
 ## Related to Canada:
