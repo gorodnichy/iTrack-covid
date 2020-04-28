@@ -67,7 +67,7 @@ Open data:
 - https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f
 - https://www.opengovpartnership.org/collecting-open-government-approaches-to-covid-19/
 - https://github.com/datasets/covid-19
-- https://github.com/CSSEGISandData/COVID-19
+- https://github.com/CSSEGISandData/COVID-19 - Main
 - https://github.com/ibesora/covid-19-data
 
 
@@ -79,32 +79,20 @@ Open data:
 
 - https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 
-```
-library(readxl)
-library(httr)
 
-#create the URL where the dataset is stored with automatic updates every day
-url <- paste("https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-",format(Sys.time(), "%Y-%m-%d"), ".xlsx", sep = "")
 
-#download the dataset from the website to a local temporary file
-GET(url, authenticate(":", ":", type="ntlm"), write_disk(tf <- tempfile(fileext = ".xlsx")))
-
-#read the Dataset sheet into “R”
-data <- read_excel(tf)
-```
-
-### Dashboards
+### Codes 
 
 - https://github.com/AntoineSoetewey/coronavirus_dashboard)
 - https://ramikrispin.github.io/coronavirus_dashboard/ 
 - Ukraine: https://rstudio-pubs-static.s3.amazonaws.com/592327_4363a37b09fc4beeb877a1351c600ef9.html
 
-Based on 
-```
-install.packages("devtools")
-devtools::install_github("RamiKrispin/coronavirus")
-```
-which uses data from JHU which can be accessed directly  this line:
-```
-  dtJHU  <- fread("https://github.com/RamiKrispin/coronavirus-csv/raw/master/coronavirus_dataset.csv", stringsAsFactors=T) 
-```
+
+- https://ourworldindata.org/coronavirus
+
+### Educational:
+
+https://www.youtube.com/watch?v=gxAaO2rsdIs from  https://www.3blue1brown.com
+Simulating an epidemic
+3,368,784 views
+•27 Mar 2020
