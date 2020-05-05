@@ -1,11 +1,18 @@
 # Datasets and dashboards available for analyzing the propagation of COVID 19 in Canada and Worldwide
 
+## Names, Population and geo-locations of health regions
 
-## Related to Canada:
+### Canada
+https://www.stat.gouv.qc.ca/statistiques/profils/region_00/region_00_an.htm
 
-### Data:
+### World
+https://worldpopulationreview.com/canadian-provinces/
+https://simplemaps.com/data/ca-cities
 
-#### Official: 
+## Covid Data: Canada
+
+
+### Official: 
 
 The official source of information on the 2020 COVID-19 outbreak in Canada is: canada.ca/coronavirus.
 
@@ -55,7 +62,7 @@ Geographic data: https://www150.statcan.gc.ca/n1/pub/82-402-x/2011001/reg-eng.ht
 Population and geo-location of canadian cities: https://simplemaps.com/data/ca-cities
 https://simplemaps.com/static/data/country-cities/ca/ca.csv
 
-## International
+## Covid data: International
 
 Mobility restrictions due to COVID-19: https://migration.iom.int/ (UN-IOM)
 
@@ -80,8 +87,7 @@ Open data:
 - https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 
 
-
-### Codes 
+## Codes 
 
 - https://github.com/AntoineSoetewey/coronavirus_dashboard)
 - https://ramikrispin.github.io/coronavirus_dashboard/ 
@@ -90,7 +96,8 @@ Open data:
 
 - https://ourworldindata.org/coronavirus
 
-### Educational:
+
+## Educational:
 
 https://www.youtube.com/watch?v=gxAaO2rsdIs from  https://www.3blue1brown.com
 Simulating an epidemic
