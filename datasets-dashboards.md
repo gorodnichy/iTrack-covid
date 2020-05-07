@@ -87,7 +87,7 @@ Open data:
 - https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 
 
-## Codes 
+## R Dashboards  
 
 - https://github.com/AntoineSoetewey/coronavirus_dashboard)
 - https://ramikrispin.github.io/coronavirus_dashboard/ 
@@ -95,6 +95,20 @@ Open data:
 
 
 - https://ourworldindata.org/coronavirus
+
+
+
+## R Forecasting 
+
+- https://alhill.shinyapps.io/COVID19seir/
+
+Other COVID-19 apps that we recommend:
+
+-    https://benflips.shinyapps.io/nCovForecast/ - For tracking the growth rate of infections over time, comparing contries, and estimating the fraction of cases detected
+-    https://mackgrenfell.com/forecaster/covid19 - Simulations simple exponential growth and compares to hospital capacity
+-    http://gabgoh.github.io/COVID/index.html - Visualize the impact of intervention timing and strength on the reduction of cases
+-   https://neherlab.org/covid19/ - Similar to this app, simulating epidemic dynamics and comparing to hospital capacity
+
 
 
 ## Educational:
