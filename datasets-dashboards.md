@@ -104,7 +104,7 @@ Open data:
 
 
 
-## R Forecasting 
+## R spread Forecasting and modeling 
 
 - https://alhill.shinyapps.io/COVID19seir/
 
@@ -115,6 +115,10 @@ Other COVID-19 apps that we recommend:
 -    http://gabgoh.github.io/COVID/index.html - Visualize the impact of intervention timing and strength on the reduction of cases
 -   https://neherlab.org/covid19/ - Similar to this app, simulating epidemic dynamics and comparing to hospital capacity
 
+
+https://idmod.org/docs/hiv/model-seir.html
+https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology
+https://rstudio-pubs-static.s3.amazonaws.com/108549_fa9c6fe9dfeb498f802e072c6723dcf3.html
 
 
 ## Educational:
