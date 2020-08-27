@@ -3,7 +3,7 @@
 
 Various third-party codes and resources related to the iTrack COVID Apps that I developed:
 
-- [https://itrack.shinyapps.io/covid](itrack.shinyapps.io/covid) App. 
+- [https://itrack.shinyapps.io/covid](itrack.shinyapps.io/covid) (International version)
 - http://itrack.shinyapps.io/covid/us.Rmd
 - http://itrack.shinyapps.io/covid/ca.Rmd
 
