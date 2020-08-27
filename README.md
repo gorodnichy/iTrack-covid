@@ -9,5 +9,8 @@ Various third-party codes and resources related to the iTrack COVID Apps that I 
 
  Includes: data sources, other dashboards and visualizations, modeling pandemic spread 
  
+ Files in this repository:
+- [datasets-dashboards.md](https://github.com/gorodnichy/iTrack-covid/blob/master/datasets-dashboards.md)
+ 
  
  
