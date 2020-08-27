@@ -14,5 +14,5 @@ Various third-party codes and resources related to the iTrack COVID Apps that I 
  
  
  See also: 
- - https://ivi-m.github.io/R-Ottawa/101.html:  R101 - Learning R together (Lunch and Learn), where we shown how to  built iTrack COVID from scratch , using R. 
+ - https://ivi-m.github.io/R-Ottawa/101.html:  R101 - Learning R together (Lunch and Learn), where we shown how to  build iTrack COVID App from scratch using R. 
  
