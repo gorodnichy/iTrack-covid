@@ -1,3 +1,13 @@
+Various third-party codes and resources related to the iTrack COVID Apps that I developed:
+
+- [https://itrack.shinyapps.io/covid](itrack.shinyapps.io/covid) App. 
+- http://itrack.shinyapps.io/covid/us.Rmd
+- http://itrack.shinyapps.io/covid/ca.Rmd
+
+ Includes: data sources, other dashboards and visualizations, modeling pandemic spread 
+
+---
+
 # Datasets and dashboards available for analyzing the propagation of COVID 19 in Canada and Worldwide
 
 
