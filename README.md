@@ -1,7 +1,13 @@
 # [iTrack-covid resource pages](https://gorodnichy.github.io/iTrack-covid/)
 
 
-Codes and resources related to 
-the [https://itrack.shinyapps.io/covid](itrack.shinyapps.io/covid) App. 
+Various third-party codes and resources related to the iTrack COVID Apps that I developed:
 
- (links to source data, other dashboards and visualizations, modeling) 
+- [https://itrack.shinyapps.io/covid](itrack.shinyapps.io/covid) App. 
+- http://itrack.shinyapps.io/covid/us.Rmd
+- http://itrack.shinyapps.io/covid/ca.Rmd
+
+ Includes: data sources, other dashboards and visualizations, modeling pandemic spread 
+ 
+ 
+ 
