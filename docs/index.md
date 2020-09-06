@@ -2,7 +2,7 @@
 ![alt text](https://github.com/gorodnichy/iTrack-COVID/raw/master/docs/covid-48.png)
 
 
-# [iTrack COVID](https://itrack.shinyapps.io/covid)
+# [iTrack COVID](https://itrack.shinyapps.io/covid) Web App
 
 
 
@@ -26,6 +26,8 @@ Go to the App:
 - https://itrack.shinyapps.io/covid (International version)
 - https://itrack.shinyapps.io/covid/us.Rmd
 - https://itrack.shinyapps.io/covid/ca.Rmd
+
+"This App provides LIVE updates on the situation with COVID-19 in Canada and other countries at the municipal level. The unique feature of the App is a fully automated *data science driven* approach for searching and identifying high-risk regions in the country. In addition, to searching by Total and New Cases, you can also search by Acceleration, which is change in new cases a day, and Growth Rate, also known as Reproduction Rate or Rt."
 
 
 
