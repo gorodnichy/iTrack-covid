@@ -1,6 +1,8 @@
 
 ## [https://gorodnichy.github.io/iTrack-COVID](https://gorodnichy.github.io/iTrack-COVID)
 
+GC colleagues, please go to https://gccode.ssc-spc.gc.ca/r4gc/codes/tracking-covid-data, where these codes are updated, also join our User R! GCcollab group, where we discuss them.
+
 Pages in suport of [iTrack COVID](https://gorodnichy.github.io/iTrack-COVID/) Web App.
 
 "This App provides LIVE updates on the situation with COVID-19 in Canada and other countries at the municipal level. The unique feature of the App is a fully automated data science driven approach for searching and identifying high-risk regions in the country. In addition, to searching by Total and New Cases, you can also search by Acceleration, which is change in new cases a day, and Growth Rate, also known as Reproduction Rate or Rt."
